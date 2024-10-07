@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bosgstrat.github.io/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/app/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/assets/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/css/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/data/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/includes/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/item/sitemap.html.gz
+Sitemap: https://bosgstrat.github.io/src/sitemap.html.gz
